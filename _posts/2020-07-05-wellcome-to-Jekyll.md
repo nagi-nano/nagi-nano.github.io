@@ -9,5 +9,5 @@ title:  "Welcome to Jekyll!"
 
 I hope you like it!
 
-
+... which is shown in the screenshot below:
 ![My helpful screenshot](/assets/puppy-5124948_1920.jpg)
